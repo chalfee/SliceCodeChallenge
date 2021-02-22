@@ -1,4 +1,4 @@
-# SliceCodeChallenge
+# Code Challenge
 
 Program takes the definition of a grid with points and return solution (visit all point and leave pizza at them) with commands to bot:
 
